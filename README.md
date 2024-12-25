@@ -24,4 +24,4 @@ oder auch die fallweise notwendige Anpassung der Skripte an den eigenen Bedarf (
 Eintragung der geograschen Koordinaten des eigenen Observatoriums) leicht vollzogen
 werden kann.
 
-Eine detaillierte beschreibung der Skripte findet sich in der Datei BeschreibunDerSkripte_20241221.pdf
+Eine detaillierte Beschreibung der Skripte findet sich in der Datei BeschreibunDerSkripte_20241221.pdf
